@@ -1,2 +1,2 @@
-# PythonClass
+# IntroToProg-Python
 applications created in Python
